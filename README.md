@@ -28,8 +28,7 @@ The current repo and deployment of the Expat Jounral is the final iteration and 
 
 ## hosted
 - API is hosted on heroku
-Link: https://expat-journal-server.herokuapp.com/api/
-*APi will respond with a connot get if its working correctly, check Documentation section for further API capabilities*
+- Link: https://expat-journal-server.herokuapp.com/api/ *API will respond with a connot get if its working correctly, check Documentation section for further API capabilities*
 
 ## Documentation
 
